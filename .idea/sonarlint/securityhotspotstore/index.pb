@@ -5,3 +5,5 @@ T
 $contracts/facility-verification.clar,8/4/846317c1e114e49185758a0163ab152909b6c720
 S
 #tests/facility-verification.test.ts,8/8/88689f5cc9d2955d6d66796acc56d284a659c315
+P
+ contracts/permit-management.clar,d/1/d1c4d63cf2a81cc2a37811eab167ee68ac0a5b24
