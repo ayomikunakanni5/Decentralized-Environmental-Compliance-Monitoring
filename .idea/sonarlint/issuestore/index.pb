@@ -1,3 +1,19 @@
 
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+T
+$contracts/facility-verification.clar,8/4/846317c1e114e49185758a0163ab152909b6c720
+S
+#tests/facility-verification.test.ts,8/8/88689f5cc9d2955d6d66796acc56d284a659c315
+P
+ contracts/permit-management.clar,d/1/d1c4d63cf2a81cc2a37811eab167ee68ac0a5b24
+H
+contracts/reporting.clar,c/b/cb3f865f5236d2f1405a540b885a7dd2fb4b4adf
+J
+contracts/sensor-data.clar,3/5/355f28504f2dd3e44569dce7a79c666ee80a8020
+G
+tests/reporting.test.ts,7/d/7d2645500e7f0af0f612461d0d06bd36de231541
+O
+tests/permit-management.test.ts,a/0/a0de6840d5e173dde34374f17277b3aeae50f61c
+I
+tests/sensor-data.test.ts,1/5/15fba83d51e2a1ee87285d30038377b1925fde8f
