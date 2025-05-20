@@ -7,3 +7,5 @@ S
 #tests/facility-verification.test.ts,8/8/88689f5cc9d2955d6d66796acc56d284a659c315
 P
  contracts/permit-management.clar,d/1/d1c4d63cf2a81cc2a37811eab167ee68ac0a5b24
+H
+contracts/reporting.clar,c/b/cb3f865f5236d2f1405a540b885a7dd2fb4b4adf
